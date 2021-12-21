@@ -1,14 +1,16 @@
----Site informatif et pédagogique concernant l'Autisme---
+### Site informatif et pédagogique concernant l'Autisme
+
 Interface accueil en panoramama doté de 3 articles sur 3 bandes (regroupant les divers articles du site aléatoirement). Miniature Photo +Accroche et lien vers l'articles.
 Un menu dépliant proposera les différentes formes d'Autisme.
 1 Forme d'Autisme correspond à un article 
 1 Article = Détail d'une forme a l'aide de photos, récits, témoignages etc.
 
----Forum de discution---
+### Forum de discution
+
 Il sera possible d'insérer liens, vidéos ou/et images dans un post ou une réponse.
 
----Différents droits utilisateurs---
-Les visiteurs auront la possibilité de s'inscrire. L'inscription est nécéssaire pour avoir accès au forum.
+**Différents droits utilisateurs
+**Les visiteurs auront la possibilité de s'inscrire. L'inscription est nécéssaire pour avoir accès au forum.
 
 --Formulaire d'inscription--
 
@@ -37,7 +39,7 @@ Un bouton connexion/deconnexion selon le statut utilisateur
 
 Définir les règles d'utilisations du forum-- Toutes entorses entrainant le bannissement définitif.
 
---- Boutique ---
+ Boutique 
 La boutique est accessible à tous. Passer une commande nécéssite un compte utilisateur 
 La boutique comportera un panier. Ajout ou suppression des articles
 Un bouton paiement sera disponible au bas du panier comportant le prix TTC
