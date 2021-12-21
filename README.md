@@ -5,13 +5,13 @@
 1. Une Forme d'Autisme correspond à un article 
 1. Un Article = Détail d'une forme a l'aide de photos, récits, témoignages etc.
 
-## Forum de discution 
+>## Forum de discution 
 Il sera possible d'insérer liens, vidéos ou/et images dans un post ou une réponse.
 
-## Différents droits utilisateurs
+>## Différents droits utilisateurs
 Les visiteurs auront la possibilité de s'inscrire. L'inscription est nécéssaire pour avoir accès au forum.
 
-## Formulaire d'inscription 
+>## Formulaire d'inscription 
 
 1. **Choix du pseudo: 16 caractères.**
 
@@ -29,17 +29,17 @@ Gérer l'envoi de mail avec un lien à utilisation unique
 Le lien demandera un nouveau MDP et la confirmation de celui-ci**
 1. Message de confirmation ou de défaut
 
-# Formulaire de connexion
+> # Formulaire de connexion
 
 1. Login
 1. Mot de passe
 1. Date de naissance 
 
-**Un bouton connexion/deconnexion selon le statut utilisateur**
+Un bouton connexion/deconnexion selon le statut utilisateur
 
-## Définir les règles d'utilisations du forum-- Toutes entorses entrainant le bannissement définitif.
+ ##  **Définir les règles d'utilisations du forum-- Toutes entorses entrainant le bannissement définitif.**
 
-## Boutique 
+> ## Boutique 
 1. La boutique est accessible à tous. Passer une commande nécéssite un compte utilisateur 
 1. **La boutique comportera un panier. Ajout ou suppression des articles**
 1. n bouton paiement sera disponible au bas du panier comportant le prix TTC
